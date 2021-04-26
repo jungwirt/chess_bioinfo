@@ -1,3 +1,3 @@
-#learning git in vs code
+#test kurwa
 
 - second commit
