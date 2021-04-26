@@ -1,3 +1,3 @@
-#test kurwa
+#test message
 
 - second commit
