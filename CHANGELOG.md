@@ -1,0 +1,19 @@
+- deleting empty .gitignore
+- changed [] to ..
+- remark
+- Merge branch 'main' of https://github.com/jungwirt/chess_bioinfo into main
+- NOTE ABOUT LANGUAGE
+- Commit
+- Commit
+- InteliJ
+- Update readme.md
+- com
+- Merge branch 'main' of https://github.com/jungwirt/chess_bioinfo into main
+- com
+- Skrrt
+- proba
+- 2 próba
+- testtt
+- another change
+- teścik
+- test commit
